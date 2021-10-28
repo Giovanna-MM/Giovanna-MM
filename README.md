@@ -5,8 +5,8 @@
 - 💡 Aprendendo Front-end, Python e Javascript
 <div align="center">
   <a href="https://github.com/Giovanna-MM">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-MM&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-MM&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-MM&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-MM&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
