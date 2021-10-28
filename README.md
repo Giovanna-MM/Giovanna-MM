@@ -20,7 +20,7 @@
 </div>
 <a href="https://instagram.com/_giovanna_mm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:giovannamirandamartinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/https://https://www.linkedin.com/in/giovanna-miranda-martinho-65abb4214?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDf8k3ajfRGGz8ofoI0tBhw%3D%3D/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="http://linkedin.com/in/giovanna-miranda-martinho-65abb4214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/Giovanna-MM/Giovanna-MM/blob/output/github-contribution-grid-snake.svg)
  
