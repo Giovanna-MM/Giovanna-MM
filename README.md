@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo(a)! 💜
 ##
-- 📚 Estudante do IFSP Campus Pirituba (2° ano do EM)
+- 📚 Estudante do IFSP Campus Pirituba (3° ano do EM)
 - 🖥 Técnico em Redes de Computadores
 - 💡 Aprendendo Front-end, Python e Javascript
 <div align="center">
