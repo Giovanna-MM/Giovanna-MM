@@ -1,7 +1,7 @@
 ### Olá, Seja bem vindo(a)! 💜
 ##
 - 📚 Estudante de Gestão de Tecnologia da Informação na FATEC
-- 🖥 Técnica em Redes de Computadores
+- 💻 Técnica em Redes de Computadores
 - 💡 Aprendendo Front-end, Python e Javascript
 <div align="center">
   <a href="https://github.com/Giovanna-MM">
