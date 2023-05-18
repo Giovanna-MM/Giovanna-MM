@@ -5,6 +5,16 @@
 - 💡 Aprendendo Front-end, Python e Javascript
 <div align="center">
   <a href="https://github.com/Giovanna-MM">
+    
+     <div>
+  <img align= "left" height="120em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-MM&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  </div>
+  
+  <div>
+  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-MM&layout=compact&langs_count=7&theme=nightowl"/>
+  </div>
+  
+    <br>
  
 </div>
   <div style="display: inline_block"><br>
@@ -13,14 +23,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </div>
-  <div>
-  <img align= "left" height="120em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-MM&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  </div>
-  
-  <div>
-  <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-MM&layout=compact&langs_count=7&theme=nightowl"/>
-  </div>
-  
+ 
   </div>
   <img align="right" alt="Gio-pic" height="120" style="border-radius:50px;"src="https://media.discordapp.net/attachments/736371468123897926/903124033749520384/112842_Tfs1uev5.png?width=676&height=676">
 </div>
